@@ -1,3 +1,5 @@
+// https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          hiiii
         </p>
         <a
           className="App-link"
