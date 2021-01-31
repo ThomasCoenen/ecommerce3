@@ -1,23 +1,37 @@
 {
   "files": {
-    "main.css": "/ecommerce3/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ecommerce3/static/js/main.e3e1b2a9.chunk.js",
-    "main.js.map": "/ecommerce3/static/js/main.e3e1b2a9.chunk.js.map",
-    "runtime-main.js": "/ecommerce3/static/js/runtime-main.ef0f582f.js",
-    "runtime-main.js.map": "/ecommerce3/static/js/runtime-main.ef0f582f.js.map",
-    "static/js/2.3c4d1943.chunk.js": "/ecommerce3/static/js/2.3c4d1943.chunk.js",
-    "static/js/2.3c4d1943.chunk.js.map": "/ecommerce3/static/js/2.3c4d1943.chunk.js.map",
-    "static/js/3.f7481012.chunk.js": "/ecommerce3/static/js/3.f7481012.chunk.js",
-    "static/js/3.f7481012.chunk.js.map": "/ecommerce3/static/js/3.f7481012.chunk.js.map",
+    "main.css": "/ecommerce3/static/css/main.ce2eda83.chunk.css",
+    "main.js": "/ecommerce3/static/js/main.d25953ba.chunk.js",
+    "main.js.map": "/ecommerce3/static/js/main.d25953ba.chunk.js.map",
+    "runtime-main.js": "/ecommerce3/static/js/runtime-main.3d2bc147.js",
+    "runtime-main.js.map": "/ecommerce3/static/js/runtime-main.3d2bc147.js.map",
+    "static/js/2.0fdc71cd.chunk.js": "/ecommerce3/static/js/2.0fdc71cd.chunk.js",
+    "static/js/2.0fdc71cd.chunk.js.map": "/ecommerce3/static/js/2.0fdc71cd.chunk.js.map",
+    "static/js/3.b3e5a5f5.chunk.js": "/ecommerce3/static/js/3.b3e5a5f5.chunk.js",
+    "static/js/3.b3e5a5f5.chunk.js.map": "/ecommerce3/static/js/3.b3e5a5f5.chunk.js.map",
     "index.html": "/ecommerce3/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ecommerce3/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3c4d1943.chunk.js.LICENSE.txt": "/ecommerce3/static/js/2.3c4d1943.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ecommerce3/static/media/logo.6ce24c58.svg"
+    "static/css/main.ce2eda83.chunk.css.map": "/ecommerce3/static/css/main.ce2eda83.chunk.css.map",
+    "static/js/2.0fdc71cd.chunk.js.LICENSE.txt": "/ecommerce3/static/js/2.0fdc71cd.chunk.js.LICENSE.txt",
+    "static/media/bluetee.25015103.jpg": "/ecommerce3/static/media/bluetee.25015103.jpg",
+    "static/media/bluetee2.063f2d08.jpg": "/ecommerce3/static/media/bluetee2.063f2d08.jpg",
+    "static/media/greentee2.9c26c46a.png": "/ecommerce3/static/media/greentee2.9c26c46a.png",
+    "static/media/kidsshirt.5184ef33.jpg": "/ecommerce3/static/media/kidsshirt.5184ef33.jpg",
+    "static/media/logo6.0a3a1f55.png": "/ecommerce3/static/media/logo6.0a3a1f55.png",
+    "static/media/main.4c02c0e3.jpg": "/ecommerce3/static/media/main.4c02c0e3.jpg",
+    "static/media/racoontee.80ef466b.jpg": "/ecommerce3/static/media/racoontee.80ef466b.jpg",
+    "static/media/shoes1.468f72fc.jpg": "/ecommerce3/static/media/shoes1.468f72fc.jpg",
+    "static/media/shoes2.92a8ffcb.jpg": "/ecommerce3/static/media/shoes2.92a8ffcb.jpg",
+    "static/media/shoes3.2142a937.jpg": "/ecommerce3/static/media/shoes3.2142a937.jpg",
+    "static/media/shoes4.2ae26a93.jpg": "/ecommerce3/static/media/shoes4.2ae26a93.jpg",
+    "static/media/watch1.9f1a8bee.jpg": "/ecommerce3/static/media/watch1.9f1a8bee.jpg",
+    "static/media/watch2.bf50af21.jpg": "/ecommerce3/static/media/watch2.bf50af21.jpg",
+    "static/media/watch3.03dade7f.jpg": "/ecommerce3/static/media/watch3.03dade7f.jpg",
+    "static/media/welcome.46e5b127.jpg": "/ecommerce3/static/media/welcome.46e5b127.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef0f582f.js",
-    "static/js/2.3c4d1943.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e3e1b2a9.chunk.js"
+    "static/js/runtime-main.3d2bc147.js",
+    "static/js/2.0fdc71cd.chunk.js",
+    "static/css/main.ce2eda83.chunk.css",
+    "static/js/main.d25953ba.chunk.js"
   ]
 }
